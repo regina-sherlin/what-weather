@@ -1,0 +1,17 @@
+{
+   "main" :
+   {
+        "firstName": "Joe",
+        "lastName": "Jackson",
+        "gender": "male",
+        "age": 28  
+    },
+    
+   "main2" : 
+   {
+        "firstName": "Reg",
+        "lastName": "May",
+        "gender": "female",
+        "age": 21
+    }
+ }

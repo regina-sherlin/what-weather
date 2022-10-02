@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!--Import Google Icon Font-->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <!--Import materialize.css-->
+    <link type="text/css" rel="stylesheet" href="css/materialize.css"  media="screen,projection"/>
+    <!--Let browser know website is optimized for mobile-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="custom_style.css">
+    <title>Weather API</title>
+             
+</head>
+<body>
+    <div class="container">
+        <br><div class="row">
+            <div class="input-field col s10">
+              <input id="input_city" type="text" value="chennai" class="center">
+            </div>
+            <button type="button" id="getWeather-btn" onclick="getInputValue()" class="btn black-text newbtn">get weather</button>
+          </div>
+        
+      </div>      
+    <div class="weather-container">
+
+      <div class="icon-class">
+        <img id="weather-icon">
+        <h5 class=" center weather" id="weather"></h5>
+      </div>
+        <h3 class="temp center" id="temp"></h3>
+        <h3 class="header center mycity" id="city"></h3>
+        
+    </div>
+
+     <!--JavaScript at end of body for optimized loading-->
+     <script type="text/javascript" src="js/materialize.min.js"></script>
+     <script src="script.js"></script>
+
+</body>
+</html>
+        

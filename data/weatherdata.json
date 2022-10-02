@@ -1,0 +1,32 @@
+{
+    "overcast" : {
+        "src" : "img/misty.jpg",
+        "value" : "overcast clouds",
+        "label" : "Overcast Clouds",
+        "code" : "01"
+    },
+    "light rain" : {
+        "src" : "img/rainy.jpg",
+        "value" : "light rain",
+        "label" : "Light Rain",
+        "code" : "02"
+    },
+    "sunny" :{
+        "src" : "img/redmountain.png",
+        "value" : "sunny",
+        "label" : "Sunny",
+        "code" : "03"
+    },
+    "clear" : {
+        "src" : "img/cloudy.jpg",
+        "value" : "cloudy",
+        "label" : "Clear Sky",
+        "code" : "04"
+    },
+    "haze" : {
+        "src" : "img/mist.jpg",
+        "value" : "haze",
+        "label" : "Haze",
+        "code" : "05"
+    }
+}

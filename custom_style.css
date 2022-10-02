@@ -1,0 +1,47 @@
+body{
+    background: url('img/redmountain.png');
+    background-size: cover;
+    
+}
+.temp{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 102px;
+    font-weight: 900;
+    text-shadow: 4px 8px rgba(0,0,0,0.5);
+    color: #FFF;
+}
+.icon-class{
+    display: flex;
+    justify-content: center;
+}
+
+.newbtn{
+    margin-top: 20px;
+}
+
+.mycity{
+    text-transform: uppercase;
+    font-size: 2em;
+}
+.weather{
+    font-style: italic;
+    font-size: 40px;
+    color: #FFF;
+    text-transform: capitalize;
+    margin-left: 5px;
+}
+
+#input_city{
+    margin-top: 75px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3em;
+    text-transform: capitalize;
+    margin-left: 1.5em;
+}
+.weather-container{
+    margin-top: 50px;
+}
+#getWeather-btn{
+    margin-top: 100px;
+    background-color: #bfdbfe;
+}
