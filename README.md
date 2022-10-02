@@ -1,5 +1,5 @@
 # What's the weather
-Website URL 🚀 -  [Click here](https://regina-sherlin.github.io/jazz_sky/)
+Website URL 🚀 -  [Click here](https://regina-sherlin.github.io/what-weather/)
 
 # What is this project? 
   * This website is powered by OpenWeather API which delivers current weather updates from any city
